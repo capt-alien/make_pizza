@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'shop.apps.ShopConfig',
-    'pizza.apps.PizzaConfig',   
+    'pizza.apps.PizzaConfig',
 ]
 
 MIDDLEWARE = [
